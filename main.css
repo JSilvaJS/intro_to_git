@@ -19,7 +19,28 @@
   margin-left: 60px;
   margin-top: 15px;
   border-radius: 25px;
+  border: 2px solid black;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.clickbar1 {
+  display: inline;
+  margin-right: 10px;
+  text-align: center;
+
+}
+
+.clickbarfont {
+  font-family; "Times New Roman", Times, serif;
+  color: #97F576;
+}
+
+.clickbardiv{
+  background-color: black;
+  margin-left: 150px;
+  margin-right: 150px;
+  border-radius: 25px;
+  margin-top: 15px;
 }
 
 h1 {
