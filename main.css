@@ -9,14 +9,14 @@
 
 .myname {
   background-color: black;
-  margin-left: 100px;
+  margin-left: 60px;
   margin-right: 100px;
   border-radius: 25px;
   margin-top: 15px;
 }
 
 .JonPic {
-  margin-left: 60px;
+  margin-left: 0px;
   margin-top: 15px;
   border-radius: 25px;
   border: 2px solid black;
@@ -72,6 +72,10 @@ a {
   color: red;
   text-decoration: none;
   text-shadow: -.5px 0 black, 0 .5px black, .5px 0 black, 0 -.5px black;
+}
+
+.punks {
+border-radius: 25px;
 }
 
 .atlpic {
